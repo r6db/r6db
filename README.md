@@ -1,5 +1,1 @@
-# R6DB
-this is our repository for organisation, feature tracking, etc.  
-  
-## Issues  
-if you have an issue with the website, or your profile, open a new Issue [here](https://github.com/r6db/r6db/issues/new)
+r6db has been discontinued due to the inceasing amount of time and effort needed to continue. further development happens on https://github.com/r6db/app
