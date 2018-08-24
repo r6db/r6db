@@ -2,6 +2,16 @@
 
 Here is some of the data we aggregated for use on the site. Keep in mind that this doesn't have all of the players, just the ones that we were keeping track of (biased towards higher ranked / skilled players) and it won't match the data that Ubisoft releases.
 
+## community_level_playtime.csv
+
+Level-by-level breakdown focused on playimte
+
+-   level
+-   avg_time_ranked
+-   avg_time_casual
+-   avg_time_total
+-   count - number of people on that level
+
 ## community_ranks.csv
 
 This is a dump of the table on which the graph on top of the leaderboards was based with the following columns.
